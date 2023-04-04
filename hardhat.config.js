@@ -16,7 +16,7 @@ module.exports = {
       accounts: [`0x${PRIVATE_KEY}`],
       chainId: 11155111
     },
-    goeli: {
+    goerli: {
       url: `https://goerli.infura.io/v3/${INFURA}`,
       accounts: [`0x${PRIVATE_KEY}`],
       chainId: 5

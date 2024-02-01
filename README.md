@@ -1,13 +1,15 @@
 # Hardhat minimal project template
 
 ## Installation
-Node: 18.15.0
+Node: 18.18.0
 
-NPM: 9.3.1
+NPM: 10.4.0
 
 Recommended using WSLv2 with LTS Node & NPM version
+I'm using Unix.
 
-Deployed & verified contract with Hardhat: [0x443898c58640C34Cf7C58bAE59383C3A9257BdE7](https://sepolia.etherscan.io/address/0x443898c58640C34Cf7C58bAE59383C3A9257BdE7#code)
+Deployed & verified example contract with Hardhat:
+[0x443898c58640C34Cf7C58bAE59383C3A9257BdE7](https://sepolia.etherscan.io/address/0x443898c58640C34Cf7C58bAE59383C3A9257BdE7#code)
 
 ### Installation dependencies
 ```bash
